@@ -1,29 +1,26 @@
 {
-  "itens": [
-    {
-      "id": "b0af9b62-bd4b-4b55-98b2-b8d1bba1dbb1",
-      "text": "Arroz",
-      "checked": false
-    },
+  "task": [
     {
       "id": "c5d0bc3b-fc6e-4f52-95be-f3814ec7b2b8",
       "text": "Feijão",
-      "checked": true
-    },
-    {
-      "id": "b0d50a18-3121-4b97-9de9-99d6e254c95e",
-      "text": "Carne",
-      "checked": false
+      "completed": true,
+      "createdAt": "2023-10-01T12:00:00Z",
+      "updatedAt": "2023-10-01T12:00:00Z"
     },
     {
       "id": "1eaaedcd-c3b6-4087-9092-370b599d1104",
       "text": "Tomate",
-      "checked": true
+      "completed": false,
+      "createdAt": "2023-10-01T12:00:00Z",
+      "updatedAt": "2023-10-01T12:00:00Z"
     },
     {
-      "id": "e35d8b6f-d73b-4fba-88d0-b51b387cbd9d",
-      "text": "Alface",
-      "checked": false
+      "id": "c4de",
+      "text": ""
+    },
+    {
+      "id": "46cc",
+      "text": "sfsafadsf"
     }
   ]
 }
